@@ -1,0 +1,23 @@
+{
+  "name": "graine-backbone",
+  "version": "0.1.0",
+  "authors": [
+    "Ritesh Manchanda <me@ritesh.it>"
+  ],
+  "description": "Minimal node seed app for Backbone app",
+  "main": "server.js",
+  "license": "MIT",
+  "private": true,
+  "github": "https://github.com/designjockey/graine-backbone.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.4"
+  }
+}
